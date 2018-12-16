@@ -1,6 +1,9 @@
 {
   "name": "mern_shopping_list",
   "version": "1.0.0",
+  "engines": {
+    "node": "10.14.2"
+  },
   "description": "SHopping list built with MERN stak",
   "main": "server.js",
   "scripts": {
